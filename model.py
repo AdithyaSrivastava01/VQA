@@ -23,3 +23,4 @@ class Model(nn.Module):
         return x
 if(__name__=="__main__"):
     print("in model file")
+    print("just a check")
